@@ -19,6 +19,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/logo"
         android:layout_centerHorizontal="true"
-        android:background="@drawable/promo2" />
+        android:background="@drawable/promo_logo" />
 
 </RelativeLayout>
