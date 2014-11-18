@@ -1,1 +1,3 @@
 Lackmann Mobile is a dining utility created specifically for students attending St. John Fisher College in Rochester, NY. This application allows students to students to access up-to-date menus with nutritional information to allow them to make their dining choices on the fly. Students can also monitor their meal data to ensure they are getting the most out of their meal plans. Other features include social networking buttons, order a bag lunch for pickup, meal plan information, Lackmann contact information, and hours of operation for each location on campus.
+
+Lackmann Mobile can be found on Google Play at https://play.google.com/store/apps/details?id=com.gamma.lackmann.mobile
